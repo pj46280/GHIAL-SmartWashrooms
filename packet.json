@@ -1,0 +1,42 @@
+// Soap Level
+{
+    "topic": "v1/devices/me/telemetry/Soap",
+    "payload": {
+        "battery_voltage": 8.482,
+        "devEUI": "0080e115050493ce",
+        "deviceName": "D-RemoteArrival-Female-Soap5",
+        "level": 95.05
+    },
+    "qos": 0,
+    "retain": false,
+    "_msgid": "68e4f77772f4604a"
+}
+// Stall Occupancy
+{
+    "topic": "v1/devices/me/telemetry/Stall",
+    "payload": {
+        "battery": 96,
+        "devEUI": "24e124787f476271",
+        "deviceName": "D-Belt14-Male-StallOccupancy6",
+        "occupancy": 0
+    },
+    "qos": 0,
+    "retain": false,
+    "_msgid": "227ac786aecb0437"
+}
+
+// app token
+{
+    "ghialV": "BBUS-Q2LoVMSkP5MZUpVqeDXr8U22a7zvE2",
+    "nodeRed1": "BBUS-FHIBKVH7TF6YTLS242xfd3XMSFQhxj",
+    "nodeRed2": "BBUS-pgjZsMd1Gvg0otddvSAsyTND5fc7AI"
+}
+
+
+// modified - ws201
+{
+  "RSSI": -42,
+  "SNR": 13.2,
+  "distance": 65535,
+  "remaining": 0
+}
